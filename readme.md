@@ -4,6 +4,8 @@
 
 The Mineral Checker Application helps users analyze and monitor the mineral levels in their body. It provides an easy-to-use interface for inputting test results and offers recommendations based on the analysis. It uses saliva as a medium for testing the levels of mineral in body.
 
+![alt text](https://github.com/Ramchandru-45/Mineral_Checker/Images/picture1.png?raw=true)
+
 ## Features
 
 - Input mineral test data (e.g., calcium, iron, magnesium)
